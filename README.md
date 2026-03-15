@@ -81,8 +81,8 @@ I'm a computer systems engineering student from Mexico, and I enjoy creating web
   <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/octavio-bello-galindo-a195773b7"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
-<a target="_blank" href="mailto:sbirunthaban007@gmail.com"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></img></a>
+<a target="_blank" href="https://www.instagram.com/eltavo_04?igsh=M2s1bXEzOGVjZ2wy"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
+<a target="_blank" href="https://www.facebook.com/share/1CJFhFGaKA/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></img></a>
 <a target="_blank" href="https://discord.com/users/1329653522605674607"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 <br>
 </p>
