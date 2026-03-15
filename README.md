@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student from Mexico passionate about building interactive and practical applications. I enjoy working on both web interfaces and mobile apps, creating solutions that combine good design, functionality and performance.
 
-- ⚡ Fun fact: I like exploring how technology works from low-level programming (assembly and microcontrollers) to modern web and mobile development.
+- ⚡ Fun fact: I enjoy experimenting with front-end technologies, from low-level programming to web and mobile development.
 
 - 🔭 Currently working on:
   - Web application development
