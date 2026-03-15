@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Octavio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm a Software Engineering student from Mexico passionate about building interactive and practical applications. I enjoy working on both web interfaces and mobile apps, creating solutions that combine good design, functionality and performance.
+I'm a computer systems engineering student from Mexico, and I enjoy creating web and mobile applications. I like to experiment with both web interfaces and mobile apps, creating solutions that combine good design, functionality, and performance.
 
 - ⚡ Fun fact: I enjoy experimenting with front-end technologies, from low-level programming to web and mobile development.
 
