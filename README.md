@@ -76,7 +76,7 @@ I'm a Software Engineering student from Mexico passionate about building interac
 <p align="center">
    <i>Salmo 27:3 : </i>
    <br>
-  <i>Aunque un ejército acampe contra mí, No temerá mi corazón; Aunque contra mí se levante guerra, Yo estaré confiado"</i>
+  <i>"Aunque un ejército acampe contra mí, No temerá mi corazón; Aunque contra mí se levante guerra, Yo estaré confiado"</i>
   <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/octavio-bello-galindo-a195773b7"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
