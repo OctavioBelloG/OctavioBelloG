@@ -1,25 +1,20 @@
-<div align="center">
-  <img src="./banner.svg" alt="banner" width="100%"/>
-</div>
 
-<div align="center">
+<div align="center" >
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:378add,100:1d9e75&height=200&section=header&text=Octavio%20Bello%20Galindo&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Computer%20Systems%20Engineering%20·%20Mexico&descSize=16&descAlignY=75&descAlign=50"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octavio-bello-galindo-a195773b7)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eltavo_04)&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CJFhFGaKA/)&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1329653522605674607)
 
 </div>
 
 ---
 
 ## 🚀 About me
-` ` `
-🔭 Currently building  →  Web apps, mobile apps & interactive UIs
-🧠 Interested in       →  Front-end, Android dev & UX/UI design
-💻 Environment         →  Linux · Android Studio · VS Code
-⚡ Fun fact            →  From low-level programming to mobile — I love it all
-` ` `
+<div align="center">
+
+🔭 Currently building  →  Web apps, mobile apps & interactive UIs <br> 
+🧠 Interested in       →  Front-end, Android dev & UX/UI design <br>
+💻 Environment         →  Linux · Android Studio · VS Code <br>
+⚡ Fun fact            →  From web programming to mobile — I love it all <br>
+</div>
 
 ---
 
@@ -36,7 +31,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)&nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </div>
 
@@ -78,12 +72,13 @@
 
 ---
 
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+
+
 
 </div>
 
@@ -94,6 +89,13 @@
 </div>
 
 ---
-```
 
-Reemplaza las 3 veces que aparece `TU_USERNAME` con tu usuario real de GitHub. El `banner.svg` debe estar subido en la raíz del mismo repositorio para que la imagen aparezca correctamente.
+## My social Networks
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octavio-bello-galindo-a195773b7)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eltavo_04)&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CJFhFGaKA/)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1329653522605674607)
+
+</div>
