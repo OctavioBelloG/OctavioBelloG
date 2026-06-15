@@ -71,25 +71,6 @@
 
 </div>
 
----
-
-
-<div align="center">
-
-
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-
-
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## My social Networks
 <div align="center">
