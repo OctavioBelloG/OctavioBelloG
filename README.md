@@ -7,18 +7,18 @@
 
 ---
 
-## 🚀 About me
+##  > About me
 <div align="center">
 
-🔭 Currently building  →  Web apps, mobile apps & interactive UIs <br> 
-🧠 Interested in       →  Front-end, Android dev & UX/UI design <br>
-💻 Environment         →  Linux · Android Studio · VS Code <br>
-⚡ Fun fact            →  From web programming to mobile — I love it all <br>
+ Currently building  →  Web apps, mobile apps & interactive UIs <br> 
+ Interested in       →  Front-end, Android dev & UX/UI design <br>
+ Environment         →  Linux · Android Studio · VS Code <br>
+ Fun fact            →  From web programming to mobile — I love it all <br>
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## > Tech Stack
 
 **Languages**
 
